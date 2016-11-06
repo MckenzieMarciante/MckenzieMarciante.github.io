@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="MckenzieMarciante.github.io" resolutions="1x" timestamp="1478393114302">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1478397970544">
   <folder name="css">
-    <file name="site_global.css" crc="191268149"/>
+    <file name="site_global.css" crc="3984724378"/>
     <file name="master_other.css" crc="3825888115" ref="writing-sample:resume:additional-writing-pieces:about:photo-gallery"/>
     <file name="writing-sample.css" crc="4247747004" ref="writing-sample"/>
     <file name="index.css" crc="3951878380" ref="index"/>
-    <file name="resume.css" crc="3961233057" ref="resume"/>
+    <file name="resume.css" crc="407453922" ref="resume"/>
     <file name="additional-writing-pieces.css" crc="42861993" ref="additional-writing-pieces"/>
     <file name="about.css" crc="4133456627" ref="about"/>
     <file name="photo-gallery.css" crc="239853115" ref="photo-gallery"/>
@@ -38,10 +38,10 @@
     <file name="u4029.png" crc="365983851" ref="about"/>
     <file name="u4023.png" crc="365983851" ref="about"/>
   </folder>
-  <file name="index.html" crc="3799826358" seo="true" mt="1478393003945" redirect="true"/>
-  <file name="writing-sample.html" crc="430321837" seo="true" mt="1462335765791" redirect="true"/>
-  <file name="resume.html" crc="4191612426" seo="true" mt="1462203690574" redirect="true"/>
-  <file name="about.html" crc="4171489031" seo="true" mt="1462335822704" redirect="true"/>
-  <file name="additional-writing-pieces.html" crc="3883666148" seo="true" mt="1462197907885" redirect="true"/>
-  <file name="photo-gallery.html" crc="457644111" seo="true" mt="1462849580447" redirect="true"/>
+  <file name="index.html" crc="4035156465" seo="true" mt="1462335516608" redirect="true"/>
+  <file name="writing-sample.html" crc="3844693424" seo="true" mt="1478397932182" redirect="true"/>
+  <file name="resume.html" crc="4206315978" seo="true" mt="1478397945621" redirect="true"/>
+  <file name="about.html" crc="337981066" seo="true" mt="1478397932182" redirect="true"/>
+  <file name="additional-writing-pieces.html" crc="3871617851" seo="true" mt="1478397932182" redirect="true"/>
+  <file name="photo-gallery.html" crc="414866864" seo="true" mt="1478397932182" redirect="true"/>
 </manifest>
