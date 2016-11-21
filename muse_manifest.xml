@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1479691592022">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1479692337891">
   <folder name="assets">
     <file name="we-made-it-poem.pdf" crc="3886213759" seo="true" mt="1479278187000"/>
     <file name="sacrament-and-status-by-death-anthro-research.pdf" crc="6052801" seo="true" mt="1479278249000"/>
@@ -19,7 +19,7 @@
     <file name="site_global.css" crc="3984724378"/>
     <file name="master_other.css" crc="4102765002" ref="writing-sample:resume:additional-writing-pieces:about:photo-gallery:personal-statement"/>
     <file name="writing-sample.css" crc="89263254" ref="writing-sample"/>
-    <file name="index.css" crc="4109735822" ref="index"/>
+    <file name="index.css" crc="218863505" ref="index"/>
     <file name="resume.css" crc="304734951" ref="resume"/>
     <file name="additional-writing-pieces.css" crc="3816260832" ref="additional-writing-pieces"/>
     <file name="about.css" crc="107767936" ref="about"/>
@@ -54,7 +54,7 @@
     <file name="u4029.png" crc="365983851" ref="about"/>
     <file name="u4023.png" crc="365983851" ref="about"/>
   </folder>
-  <file name="index.html" crc="50454634" seo="true" mt="1479688303279" redirect="true"/>
+  <file name="index.html" crc="311379537" seo="true" mt="1479692286303" redirect="true"/>
   <file name="writing-sample.html" crc="294389260" seo="true" mt="1479278012591" redirect="true"/>
   <file name="resume.html" crc="58092867" seo="true" mt="1479278012591" redirect="true"/>
   <file name="about.html" crc="507452112" seo="true" mt="1479689003817" redirect="true"/>
