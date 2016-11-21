@@ -1,20 +1,30 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1479279550039">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1479691592022">
   <folder name="assets">
     <file name="we-made-it-poem.pdf" crc="3886213759" seo="true" mt="1479278187000"/>
     <file name="sacrament-and-status-by-death-anthro-research.pdf" crc="6052801" seo="true" mt="1479278249000"/>
     <file name="resemblance-emulation-prose.pdf" crc="3901435629" seo="true" mt="1479278370000"/>
     <file name="autoethno-final---copy.pdf" crc="3812403537" seo="true" mt="1474850107000"/>
+    <file name="madison.jpg" crc="3874285536" seo="true" mt="1384881380000"/>
+    <file name="100_3175.jpg" crc="4190130631" seo="true" mt="1289950342000"/>
+    <file name="img_4685.jpg" crc="3993334851" seo="true" mt="1388360516000"/>
+    <file name="img_5496.jpg" crc="499953407" seo="true" mt="1388361272000"/>
+    <file name="img_4927.jpg" crc="503121948" seo="true" mt="1388360682000"/>
+    <file name="img_5627-(2).jpg" crc="3916912368" seo="true" mt="1311169950000"/>
+    <file name="img_6669-copy.jpg" crc="373088591" seo="true" mt="1386694490000"/>
+    <file name="img_7464.jpg" crc="299448762" seo="true" mt="1386694262000"/>
+    <file name="img_5773.jpg" crc="3906186336" seo="true" mt="1311170314000"/>
+    <file name="img_0736.jpg" crc="385815336" seo="true" mt="1479691492000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="191268149"/>
-    <file name="master_other.css" crc="118493984" ref="writing-sample:resume:additional-writing-pieces:about:photo-gallery:personal-statement"/>
+    <file name="site_global.css" crc="3984724378"/>
+    <file name="master_other.css" crc="4102765002" ref="writing-sample:resume:additional-writing-pieces:about:photo-gallery:personal-statement"/>
     <file name="writing-sample.css" crc="89263254" ref="writing-sample"/>
-    <file name="index.css" crc="383995046" ref="index"/>
+    <file name="index.css" crc="4109735822" ref="index"/>
     <file name="resume.css" crc="304734951" ref="resume"/>
     <file name="additional-writing-pieces.css" crc="3816260832" ref="additional-writing-pieces"/>
     <file name="about.css" crc="107767936" ref="about"/>
-    <file name="photo-gallery.css" crc="4049383724" ref="photo-gallery"/>
-    <file name="landing.css" crc="3951878380" ref="landing"/>
+    <file name="photo-gallery.css" crc="4048029499" ref="photo-gallery"/>
+    <file name="landing.css" crc="365805199" ref="landing"/>
     <file name="personal-statement.css" crc="310961974" ref="personal-statement"/>
   </folder>
   <folder name="scripts">
@@ -44,12 +54,12 @@
     <file name="u4029.png" crc="365983851" ref="about"/>
     <file name="u4023.png" crc="365983851" ref="about"/>
   </folder>
-  <file name="index.html" crc="51306049" seo="true" mt="1479276890523" redirect="true"/>
+  <file name="index.html" crc="50454634" seo="true" mt="1479688303279" redirect="true"/>
   <file name="writing-sample.html" crc="294389260" seo="true" mt="1479278012591" redirect="true"/>
   <file name="resume.html" crc="58092867" seo="true" mt="1479278012591" redirect="true"/>
-  <file name="about.html" crc="3911580379" seo="true" mt="1479278012591" redirect="true"/>
+  <file name="about.html" crc="507452112" seo="true" mt="1479689003817" redirect="true"/>
   <file name="additional-writing-pieces.html" crc="4102956192" seo="true" mt="1479279416699" redirect="true"/>
-  <file name="photo-gallery.html" crc="4236128511" seo="true" mt="1479278012591" redirect="true"/>
-  <file name="landing.html" crc="473662025" seo="true" mt="1479276594531" redirect="true"/>
+  <file name="photo-gallery.html" crc="392662838" seo="true" mt="1479691518719" redirect="true"/>
+  <file name="landing.html" crc="335308467" seo="true" mt="1479688099215" redirect="true"/>
   <file name="personal-statement.html" crc="4188993197" seo="true" mt="1479278012591" redirect="true"/>
 </manifest>

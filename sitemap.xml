@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/index.html</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -14,13 +14,13 @@
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/landing.html</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/photo-gallery.html</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/about.html</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -49,62 +49,122 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/sparkler.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_4927.jpg</loc>
+    <lastmod>2013-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/race.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_5627-(2).jpg</loc>
+    <lastmod>2011-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/tracks.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_6669-copy.jpg</loc>
+    <lastmod>2013-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/hydrant.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_7464.jpg</loc>
+    <lastmod>2013-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_5773.jpg</loc>
+    <lastmod>2011-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_0736.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/rose.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/soldier.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/karly.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/madison.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_4685.jpg</loc>
+    <lastmod>2013-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_5496.jpg</loc>
+    <lastmod>2013-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/race.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/tracks.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/hydrant.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/daizy.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/monkies.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/signature.gif</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/name.png</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/adobestock_100557550.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/img_1190.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -115,14 +175,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/soldier.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/100_3175.jpg</loc>
+    <lastmod>2010-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/rose.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/madison.jpg</loc>
+    <lastmod>2013-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -145,14 +205,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/daizy.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/madison.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/monkies.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/sparkler.jpg</loc>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
