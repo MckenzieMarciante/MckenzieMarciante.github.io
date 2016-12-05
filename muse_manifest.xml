@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1479692337891">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1480912586714">
   <folder name="assets">
     <file name="we-made-it-poem.pdf" crc="3886213759" seo="true" mt="1479278187000"/>
     <file name="sacrament-and-status-by-death-anthro-research.pdf" crc="6052801" seo="true" mt="1479278249000"/>
@@ -14,18 +14,19 @@
     <file name="img_7464.jpg" crc="299448762" seo="true" mt="1386694262000"/>
     <file name="img_5773.jpg" crc="3906186336" seo="true" mt="1311170314000"/>
     <file name="img_0736.jpg" crc="385815336" seo="true" mt="1479691492000"/>
+    <file name="resume-pdf.pdf" crc="4091502821" seo="true" mt="1480909264000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3984724378"/>
-    <file name="master_other.css" crc="4102765002" ref="writing-sample:resume:additional-writing-pieces:about:photo-gallery:personal-statement"/>
-    <file name="writing-sample.css" crc="89263254" ref="writing-sample"/>
+    <file name="master_other.css" crc="118493984" ref="writing-sample:resume:additional-writing-pieces:about:photo-gallery:personal-statement"/>
+    <file name="writing-sample.css" crc="176867648" ref="writing-sample"/>
     <file name="index.css" crc="218863505" ref="index"/>
-    <file name="resume.css" crc="304734951" ref="resume"/>
-    <file name="additional-writing-pieces.css" crc="3816260832" ref="additional-writing-pieces"/>
-    <file name="about.css" crc="107767936" ref="about"/>
-    <file name="photo-gallery.css" crc="4048029499" ref="photo-gallery"/>
+    <file name="resume.css" crc="522746099" ref="resume"/>
+    <file name="additional-writing-pieces.css" crc="333052382" ref="additional-writing-pieces"/>
+    <file name="about.css" crc="386225414" ref="about"/>
+    <file name="photo-gallery.css" crc="3769859513" ref="photo-gallery"/>
     <file name="landing.css" crc="365805199" ref="landing"/>
-    <file name="personal-statement.css" crc="310961974" ref="personal-statement"/>
+    <file name="personal-statement.css" crc="195644899" ref="personal-statement"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:landing:personal-statement"/>
@@ -49,17 +50,17 @@
     <file name="signature.gif" crc="4043246960" seo="true" ref="photo-gallery:landing"/>
     <file name="name.png" crc="95721285" seo="true" ref="writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement"/>
     <file name="adobestock_100557550.jpg" crc="3848830953" seo="true" ref="writing-sample"/>
-    <file name="u1216.png" crc="4189821107" ref="resume"/>
+    <file name="u1216.png" crc="4062524765" ref="resume"/>
     <file name="img_1190.jpg" crc="155902478" seo="true" ref="about"/>
     <file name="u4029.png" crc="365983851" ref="about"/>
     <file name="u4023.png" crc="365983851" ref="about"/>
   </folder>
   <file name="index.html" crc="311379537" seo="true" mt="1479692286303" redirect="true"/>
-  <file name="writing-sample.html" crc="294389260" seo="true" mt="1479278012591" redirect="true"/>
-  <file name="resume.html" crc="58092867" seo="true" mt="1479278012591" redirect="true"/>
-  <file name="about.html" crc="507452112" seo="true" mt="1479689003817" redirect="true"/>
-  <file name="additional-writing-pieces.html" crc="4102956192" seo="true" mt="1479279416699" redirect="true"/>
-  <file name="photo-gallery.html" crc="392662838" seo="true" mt="1479691518719" redirect="true"/>
+  <file name="writing-sample.html" crc="3779612511" seo="true" mt="1480910259173" redirect="true"/>
+  <file name="resume.html" crc="213338298" seo="true" mt="1480912551440" redirect="true"/>
+  <file name="about.html" crc="114948887" seo="true" mt="1480910259173" redirect="true"/>
+  <file name="additional-writing-pieces.html" crc="377321464" seo="true" mt="1480910301771" redirect="true"/>
+  <file name="photo-gallery.html" crc="4068420410" seo="true" mt="1480910259173" redirect="true"/>
   <file name="landing.html" crc="335308467" seo="true" mt="1479688099215" redirect="true"/>
-  <file name="personal-statement.html" crc="4188993197" seo="true" mt="1479278012591" redirect="true"/>
+  <file name="personal-statement.html" crc="3816462368" seo="true" mt="1480910259173" redirect="true"/>
 </manifest>
