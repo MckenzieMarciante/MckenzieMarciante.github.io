@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1480983452975">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1480983966785">
   <folder name="assets">
     <file name="madison.jpg" crc="3874285536" seo="true" mt="1384881380000"/>
     <file name="100_3175.jpg" crc="4190130631" seo="true" mt="1289950342000"/>
@@ -63,7 +63,7 @@
   </folder>
   <file name="index.html" crc="487532338" seo="true" mt="1480979265831" redirect="true"/>
   <file name="writing-sample.html" crc="4081208402" seo="true" mt="1480980079921" redirect="true"/>
-  <file name="resume.html" crc="3922290713" seo="true" mt="1480981498394" redirect="true"/>
+  <file name="resume.html" crc="533257949" seo="true" mt="1480983957110" redirect="true"/>
   <file name="about.html" crc="3985773685" seo="true" mt="1480981643395" redirect="true"/>
   <file name="additional-writing-pieces.html" crc="155810599" seo="true" mt="1480983402895" redirect="true"/>
   <file name="photo-gallery.html" crc="4068420410" seo="true" mt="1480910259173" redirect="true"/>
