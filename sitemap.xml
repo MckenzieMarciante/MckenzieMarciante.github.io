@@ -7,20 +7,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/landing.html</loc>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/personal-statement.html</loc>
     <lastmod>2016-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/personal-statement.html</loc>
-    <lastmod>2016-12-04</lastmod>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/home.html</loc>
+    <lastmod>2016-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/photo-gallery.html</loc>
-    <lastmod>2016-12-04</lastmod>
+    <lastmod>2016-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

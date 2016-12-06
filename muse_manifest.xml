@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1480983966785">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1480984283250">
   <folder name="assets">
     <file name="madison.jpg" crc="3874285536" seo="true" mt="1384881380000"/>
     <file name="100_3175.jpg" crc="4190130631" seo="true" mt="1289950342000"/>
@@ -25,35 +25,35 @@
   <folder name="css">
     <file name="site_global.css" crc="191268149"/>
     <file name="master_other.css" crc="4102765002" ref="writing-sample:resume:additional-writing-pieces:about:photo-gallery:personal-statement"/>
-    <file name="writing-sample.css" crc="153127089" ref="writing-sample"/>
-    <file name="index.css" crc="3769737598" ref="index"/>
-    <file name="resume.css" crc="242293907" ref="resume"/>
-    <file name="additional-writing-pieces.css" crc="3991071465" ref="additional-writing-pieces"/>
+    <file name="writing-sample.css" crc="405457009" ref="writing-sample"/>
+    <file name="index.css" crc="4171335356" ref="index"/>
+    <file name="resume.css" crc="195086504" ref="resume"/>
+    <file name="additional-writing-pieces.css" crc="120141928" ref="additional-writing-pieces"/>
     <file name="about.css" crc="386225414" ref="about"/>
-    <file name="photo-gallery.css" crc="3769859513" ref="photo-gallery"/>
-    <file name="landing.css" crc="18033073" ref="landing"/>
+    <file name="photo-gallery.css" crc="3769093038" ref="photo-gallery"/>
     <file name="personal-statement.css" crc="195644899" ref="personal-statement"/>
+    <file name="home.css" crc="3869197406" ref="home"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:landing:personal-statement"/>
-    <file name="museutils.js" crc="163421577" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:landing:personal-statement"/>
-    <file name="whatinput.js" crc="86476730" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:landing:personal-statement"/>
-    <file name="museconfig.js" crc="36584860" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:landing:personal-statement"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:landing:personal-statement"/>
-    <file name="require.js" crc="244322403" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:landing:personal-statement"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement:home"/>
+    <file name="museutils.js" crc="163421577" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement:home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement:home"/>
+    <file name="museconfig.js" crc="36584860" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement:home"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement:home"/>
+    <file name="require.js" crc="244322403" ref="index:writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement:home"/>
   </folder>
   <folder name="images">
-    <file name="rose.jpg" crc="3866314465" seo="true" ref="landing"/>
-    <file name="soldier.jpg" crc="4107331240" seo="true" ref="landing"/>
-    <file name="karly.jpg" crc="4260156103" seo="true" ref="landing"/>
-    <file name="madison.jpg" crc="3968087599" seo="true" ref="landing"/>
-    <file name="sparkler.jpg" crc="294046927" seo="true" ref="landing"/>
-    <file name="race.jpg" crc="505301407" seo="true" ref="landing"/>
-    <file name="tracks.jpg" crc="265503462" seo="true" ref="landing"/>
-    <file name="hydrant.jpg" crc="3889097795" seo="true" ref="landing"/>
-    <file name="daizy.jpg" crc="402030942" seo="true" ref="landing"/>
-    <file name="monkies.jpg" crc="4234530269" seo="true" ref="landing"/>
-    <file name="signature.gif" crc="4043246960" seo="true" ref="photo-gallery:landing"/>
+    <file name="rose.jpg" crc="3866314465" seo="true" ref="home"/>
+    <file name="soldier.jpg" crc="4107331240" seo="true" ref="home"/>
+    <file name="karly.jpg" crc="4260156103" seo="true" ref="home"/>
+    <file name="madison.jpg" crc="3968087599" seo="true" ref="home"/>
+    <file name="sparkler.jpg" crc="294046927" seo="true" ref="home"/>
+    <file name="race.jpg" crc="505301407" seo="true" ref="home"/>
+    <file name="tracks.jpg" crc="265503462" seo="true" ref="home"/>
+    <file name="hydrant.jpg" crc="3889097795" seo="true" ref="home"/>
+    <file name="daizy.jpg" crc="402030942" seo="true" ref="home"/>
+    <file name="monkies.jpg" crc="4234530269" seo="true" ref="home"/>
+    <file name="signature.gif" crc="4043246960" seo="true" ref="photo-gallery:home"/>
     <file name="name.png" crc="95721285" seo="true" ref="writing-sample:resume:about:additional-writing-pieces:photo-gallery:personal-statement"/>
     <file name="adobestock_100557550.jpg" crc="3848830953" seo="true" ref="writing-sample"/>
     <file name="u1216.png" crc="4062524765" ref="resume"/>
@@ -61,12 +61,12 @@
     <file name="u4029.png" crc="365983851" ref="about"/>
     <file name="u4023.png" crc="365983851" ref="about"/>
   </folder>
-  <file name="index.html" crc="487532338" seo="true" mt="1480979265831" redirect="true"/>
-  <file name="writing-sample.html" crc="4081208402" seo="true" mt="1480980079921" redirect="true"/>
-  <file name="resume.html" crc="533257949" seo="true" mt="1480983957110" redirect="true"/>
-  <file name="about.html" crc="3985773685" seo="true" mt="1480981643395" redirect="true"/>
-  <file name="additional-writing-pieces.html" crc="155810599" seo="true" mt="1480983402895" redirect="true"/>
-  <file name="photo-gallery.html" crc="4068420410" seo="true" mt="1480910259173" redirect="true"/>
-  <file name="landing.html" crc="90040236" seo="true" mt="1480982581768" redirect="true"/>
-  <file name="personal-statement.html" crc="3816462368" seo="true" mt="1480910259173" redirect="true"/>
+  <file name="index.html" crc="4264068689" seo="true" mt="1480984270036" redirect="true"/>
+  <file name="writing-sample.html" crc="227745342" seo="true" mt="1480984260382" redirect="true"/>
+  <file name="resume.html" crc="3863699721" seo="true" mt="1480984260382" redirect="true"/>
+  <file name="about.html" crc="471344408" seo="true" mt="1480984260382" redirect="true"/>
+  <file name="additional-writing-pieces.html" crc="190499711" seo="true" mt="1480984260382" redirect="true"/>
+  <file name="photo-gallery.html" crc="152333395" seo="true" mt="1480984260382" redirect="true"/>
+  <file name="personal-statement.html" crc="340446566" seo="true" mt="1480984260382" redirect="true"/>
+  <file name="home.html" crc="428648008" seo="true" mt="1480984260390" redirect="true"/>
 </manifest>
