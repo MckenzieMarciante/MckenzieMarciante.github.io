@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1481413592075">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1481415379783">
   <folder name="assets">
     <file name="madison.jpg" crc="3874285536" seo="true" mt="1384881380000"/>
     <file name="100_3175.jpg" crc="4190130631" seo="true" mt="1289950342000"/>
@@ -25,6 +25,7 @@
     <file name="marciante-support-our-boys.pptx" crc="260426154" seo="true" mt="1481351154000"/>
     <file name="marciante-course-synthesis-essay.pdf" crc="3927318668" seo="true" mt="1481409258000"/>
     <file name="marciante-sample-facebook-posts.pdf" crc="227115859" seo="true" mt="1481412976000"/>
+    <file name="marciante-project-proposal.pdf" crc="516258938" seo="true" mt="1481415348000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3984724378"/>
@@ -36,13 +37,13 @@
     <file name="photo-gallery.css" crc="3769859513" ref="photo-gallery"/>
     <file name="personal-statement.css" crc="195644899" ref="personal-statement"/>
     <file name="home.css" crc="4023987847" ref="home"/>
-    <file name="writ-30213.css" crc="4007122782" ref="writ-30213"/>
+    <file name="writ-30213.css" crc="137212532" ref="writ-30213"/>
     <file name="writ-38063.css" crc="4036166702" ref="writ-38063"/>
     <file name="other-work.css" crc="52405243" ref="other-work"/>
     <file name="autoethnography.css" crc="2465818" ref="autoethnography"/>
     <file name="project-1.css" crc="4036166702" ref="project-1"/>
     <file name="case-study.css" crc="4118749663" ref="case-study"/>
-    <file name="social-media-campaign.css" crc="3985587911" ref="social-media-campaign"/>
+    <file name="social-media-campaign.css" crc="3982083708" ref="social-media-campaign"/>
     <file name="project-4.css" crc="4036166702" ref="project-4"/>
     <file name="project-3.css" crc="4036166702" ref="project-3"/>
     <file name="project-2.css" crc="4036166702" ref="project-2"/>
@@ -87,9 +88,9 @@
   <file name="home.html" crc="243652865" seo="true" mt="1481387672978" redirect="true"/>
   <file name="other-work.html" crc="185541849" seo="true" mt="1481409119329" redirect="true"/>
   <file name="writ-38063.html" crc="3871457810" seo="true" mt="1481409119329" redirect="true"/>
-  <file name="writ-30213.html" crc="4001175569" seo="true" mt="1481413043068" redirect="true"/>
+  <file name="writ-30213.html" crc="4175990987" seo="true" mt="1481415194111" redirect="true"/>
   <file name="autoethnography.html" crc="324032503" seo="true" mt="1481413446955" redirect="true"/>
-  <file name="social-media-campaign.html" crc="3903857790" seo="true" mt="1481413550166" redirect="true"/>
+  <file name="social-media-campaign.html" crc="141523157" seo="true" mt="1481415370058" redirect="true"/>
   <file name="case-study.html" crc="462522247" seo="true" mt="1481413502563" redirect="true"/>
   <file name="project-1.html" crc="3801387028" seo="true" mt="1481409119329" redirect="true"/>
   <file name="project-2.html" crc="3799821732" seo="true" mt="1481409119329" redirect="true"/>
