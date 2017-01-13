@@ -1,17 +1,17 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1482438601434">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1484320106775">
   <folder name="css">
     <file name="site_global.css" crc="191268149"/>
-    <file name="master_other.css" crc="4102765002" ref="writing-sample:other-work:personal-statement:autoethnography:case-study:about:writ-30213:resume:photo-gallery:social-media-campaign"/>
+    <file name="master_other.css" crc="118493984" ref="writing-sample:other-work:personal-statement:autoethnography:case-study:about:writ-30213:resume:photo-gallery:social-media-campaign"/>
     <file name="writing-sample.css" crc="405457009" ref="writing-sample"/>
     <file name="other-work.css" crc="193054918" ref="other-work"/>
     <file name="personal-statement.css" crc="195644899" ref="personal-statement"/>
     <file name="autoethnography.css" crc="4150987375" ref="autoethnography"/>
     <file name="case-study.css" crc="36801450" ref="case-study"/>
     <file name="index.css" crc="200300232" ref="index"/>
-    <file name="about.css" crc="386225414" ref="about"/>
+    <file name="about.css" crc="4210153084" ref="about"/>
     <file name="landing.css" crc="4171335356" ref="landing"/>
     <file name="writ-30213.css" crc="3815255431" ref="writ-30213"/>
-    <file name="resume.css" crc="331340692" ref="resume"/>
+    <file name="resume.css" crc="4274657226" ref="resume"/>
     <file name="photo-gallery.css" crc="3769093038" ref="photo-gallery"/>
     <file name="social-media-campaign.css" crc="437742601" ref="social-media-campaign"/>
   </folder>
@@ -36,6 +36,7 @@
     <file name="marciante-me,-myself,---twitter.pdf" crc="270312058" seo="true" mt="1481346067000"/>
     <file name="marciante-we-made-it.pdf" crc="215280532" seo="true" mt="1480981074000"/>
     <file name="marciante-resemblence-artist-statement.pdf" crc="4236073880" seo="true" mt="1480983223000"/>
+    <file name="marciante-resume2.pdf" crc="17651905" seo="true" mt="1484255782000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
@@ -70,8 +71,8 @@
   </folder>
   <file name="index.html" crc="301269742" seo="true" mt="1482438529255" redirect="true"/>
   <file name="writing-sample.html" crc="156289924" seo="true" mt="1482438529250" redirect="true"/>
-  <file name="resume.html" crc="269242898" seo="true" mt="1482438529250" redirect="true"/>
-  <file name="about.html" crc="178144969" seo="true" mt="1482438529250" redirect="true"/>
+  <file name="resume.html" crc="4132450199" seo="true" mt="1484320091323" redirect="true"/>
+  <file name="about.html" crc="80625230" seo="true" mt="1484319992878" redirect="true"/>
   <file name="other-work.html" crc="4131368241" seo="true" mt="1482438582081" redirect="true"/>
   <file name="photo-gallery.html" crc="4179845300" seo="true" mt="1482438529250" redirect="true"/>
   <file name="landing.html" crc="3843066939" seo="true" mt="1482438529261" redirect="true"/>
