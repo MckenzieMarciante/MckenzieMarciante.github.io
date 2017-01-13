@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/index.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/social-media-campaign.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/case-study.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/autoethnography.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/writ-30213.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/personal-statement.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,13 +44,13 @@
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/photo-gallery.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/other-work.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -68,13 +68,7 @@
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/writing-sample.html</loc>
-    <lastmod>2016-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/marciante-lancaster-interview-part-iii.m4a</loc>
-    <lastmod>2016-05-02</lastmod>
+    <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -86,7 +80,7 @@
   </url>
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/marciante-resume.pdf</loc>
-    <lastmod>2016-12-22</lastmod>
+    <lastmod>2017-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -127,6 +121,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/eye.jpg</loc>
+    <lastmod>2017-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/images/rose.jpg</loc>
     <lastmod>2017-01-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -139,13 +139,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/marciante-lancaster-interview-part-i.m4a</loc>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/marciante-lancaster-interview-part-ii.m4a</loc>
     <lastmod>2016-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/marciante-lancaster-interview-part-ii.m4a</loc>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/marciante-lancaster-interview-part-iii.m4a</loc>
     <lastmod>2016-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -229,6 +229,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/marciante-lancaster-interview-part-i.m4a</loc>
+    <lastmod>2016-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_0736.jpg</loc>
     <lastmod>2016-11-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -237,12 +243,6 @@
   <url>
     <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_5773.jpg</loc>
     <lastmod>2011-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://student.tcu.edu/mnmarciante/MyPortfolio/assets/img_7464.jpg</loc>
-    <lastmod>2013-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
