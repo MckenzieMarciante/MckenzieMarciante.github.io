@@ -1,19 +1,19 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1484333592569">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="student.tcu.edu/mnmarciante/MyPortfolio" resolutions="1x" timestamp="1496763288007">
   <folder name="css">
-    <file name="site_global.css" crc="3984724378"/>
-    <file name="master_other.css" crc="118493984" ref="writing-sample:other-work:personal-statement:autoethnography:case-study:about:writ-30213:resume:photo-gallery:social-media-campaign"/>
+    <file name="site_global.css" crc="191268149"/>
+    <file name="master_other.css" crc="118493984" ref="writing-sample:about:other-work:photo-gallery:resume:social-media-campaign:personal-statement:writ-30213:case-study:autoethnography"/>
     <file name="writing-sample.css" crc="4192149407" ref="writing-sample"/>
-    <file name="other-work.css" crc="3901590697" ref="other-work"/>
-    <file name="personal-statement.css" crc="3891763137" ref="personal-statement"/>
-    <file name="autoethnography.css" crc="4003548489" ref="autoethnography"/>
-    <file name="case-study.css" crc="316662144" ref="case-study"/>
-    <file name="index.css" crc="36154838" ref="index"/>
     <file name="about.css" crc="3970475427" ref="about"/>
-    <file name="landing.css" crc="4171335356" ref="landing"/>
-    <file name="writ-30213.css" crc="57762998" ref="writ-30213"/>
-    <file name="resume.css" crc="3971478954" ref="resume"/>
+    <file name="other-work.css" crc="3901590697" ref="other-work"/>
     <file name="photo-gallery.css" crc="3950690760" ref="photo-gallery"/>
+    <file name="resume.css" crc="433874532" ref="resume"/>
     <file name="social-media-campaign.css" crc="50313402" ref="social-media-campaign"/>
+    <file name="personal-statement.css" crc="3891763137" ref="personal-statement"/>
+    <file name="index.css" crc="36154838" ref="index"/>
+    <file name="writ-30213.css" crc="57762998" ref="writ-30213"/>
+    <file name="case-study.css" crc="316662144" ref="case-study"/>
+    <file name="autoethnography.css" crc="4003548489" ref="autoethnography"/>
+    <file name="landing.css" crc="4005209500" ref="landing"/>
   </folder>
   <folder name="assets">
     <file name="madison.jpg" crc="3874285536" seo="true" mt="1384881380000"/>
@@ -28,57 +28,106 @@
     <file name="marciante-lancaster-interview-part-i.m4a" crc="4287119084" seo="true" mt="1462208288000"/>
     <file name="marciante-lancaster-interview-part-ii.m4a" crc="489255067" seo="true" mt="1462208700000"/>
     <file name="marciante-lancaster-interview-part-iii.m4a" crc="6212597" seo="true" mt="1462208754000"/>
-    <file name="marciante-just-cancer.pdf" crc="307421105" seo="true" mt="1480979872000"/>
-    <file name="marciante-resume.pdf" crc="17651905" seo="true" mt="1484255782000"/>
-    <file name="marciante-resemblence.pdf" crc="4286513826" seo="true" mt="1480980728000"/>
-    <file name="marciante-sacrament-and-status-by-death.pdf" crc="74790771" seo="true" mt="1480981199000"/>
-    <file name="marciante-me,-myself,---twitter.pdf" crc="270312058" seo="true" mt="1481346067000"/>
-    <file name="marciante-we-made-it.pdf" crc="215280532" seo="true" mt="1480981074000"/>
-    <file name="marciante-resemblence-artist-statement.pdf" crc="4236073880" seo="true" mt="1480983223000"/>
-    <file name="marciante-resume2.pdf" crc="17651905" seo="true" mt="1484255782000"/>
-    <file name="eye.jpg" crc="171822002" seo="true" mt="1484333077000"/>
+    <file name="marciante-just-cancer.pdf" crc="307421105" seo="true" mt="1480979874000"/>
+    <file name="marciante-resume.pdf" crc="17651905" seo="true" mt="1484255784000"/>
+    <file name="marciante-resemblence.pdf" crc="4286513826" seo="true" mt="1480980730000"/>
+    <file name="marciante-sacrament-and-status-by-death.pdf" crc="74790771" seo="true" mt="1480981200000"/>
+    <file name="marciante-me,-myself,---twitter.pdf" crc="270312058" seo="true" mt="1481346068000"/>
+    <file name="marciante-we-made-it.pdf" crc="215280532" seo="true" mt="1480981076000"/>
+    <file name="marciante-resemblence-artist-statement.pdf" crc="4236073880" seo="true" mt="1480983224000"/>
+    <file name="marciante-resume2.pdf" crc="17651905" seo="true" mt="1484255784000"/>
+    <file name="eye.jpg" crc="171822002" seo="true" mt="1484333078000"/>
+    <file name="marciante_resume.pdf" crc="4083749926" seo="true" mt="1496763126000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
-    <file name="museutils.js" crc="4148063285" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
+    <file name="museutils.js" crc="4232573551" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
     <file name="whatinput.js" crc="86476730" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
-    <file name="museconfig.js" crc="4179431180" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
-    <file name="require.js" crc="4159430777" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
+    <file name="require.js" crc="4234670167" ref="index:writing-sample:resume:about:other-work:photo-gallery:landing:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
   </folder>
   <folder name="images">
-    <file name="rose.jpg" crc="3866314465" seo="true" ref="index"/>
-    <file name="karly.jpg" crc="4260156103" seo="true" ref="index"/>
-    <file name="madison.jpg" crc="3968087599" seo="true" ref="index"/>
-    <file name="soldier.jpg" crc="4107331240" seo="true" ref="index"/>
-    <file name="sparkler.jpg" crc="294046927" seo="true" ref="index"/>
-    <file name="race.jpg" crc="505301407" seo="true" ref="index"/>
-    <file name="tracks.jpg" crc="265503462" seo="true" ref="index"/>
-    <file name="hydrant.jpg" crc="3889097795" seo="true" ref="index"/>
-    <file name="daizy.jpg" crc="402030942" seo="true" ref="index"/>
-    <file name="monkies.jpg" crc="4234530269" seo="true" ref="index"/>
-    <file name="signature.gif" crc="4043246960" seo="true" ref="index:photo-gallery"/>
-    <file name="name.png" crc="95721285" seo="true" ref="writing-sample:resume:about:other-work:photo-gallery:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study"/>
-    <file name="adobestock_100557550.jpg" crc="3997490898" seo="true" ref="writing-sample"/>
+    <file name="rose.jpg" crc="3866314465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="karly.jpg" crc="4260156103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="madison.jpg" crc="3968087599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soldier.jpg" crc="4107331240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sparkler.jpg" crc="294046927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="race.jpg" crc="505301407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tracks.jpg" crc="265503462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hydrant.jpg" crc="3889097795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="daizy.jpg" crc="402030942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="monkies.jpg" crc="4234530269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="signature.gif" crc="4043246960" seo="true" ref="index:photo-gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="photo-gallery" alt=""/>
+    </file>
+    <file name="name.png" crc="95721285" seo="true" ref="writing-sample:resume:about:other-work:photo-gallery:personal-statement:writ-30213:autoethnography:social-media-campaign:case-study">
+      <caption webpage="about" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="photo-gallery" alt=""/>
+      <caption webpage="personal-statement" alt=""/>
+      <caption webpage="case-study" alt=""/>
+      <caption webpage="writing-sample" alt=""/>
+      <caption webpage="other-work" alt=""/>
+      <caption webpage="autoethnography" alt=""/>
+      <caption webpage="social-media-campaign" alt=""/>
+      <caption webpage="writ-30213" alt=""/>
+    </file>
+    <file name="adobestock_100557550.jpg" crc="3997490898" seo="true" ref="writing-sample">
+      <caption webpage="writing-sample" alt=""/>
+    </file>
     <file name="u1216.png" crc="4062524765" ref="resume"/>
-    <file name="img_1190.jpg" crc="155902478" seo="true" ref="about"/>
+    <file name="img_1190.jpg" crc="155902478" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
     <file name="u4029.png" crc="365983851" ref="about"/>
     <file name="u4023.png" crc="365983851" ref="about"/>
     <file name="u4679.png" crc="365983851" ref="writ-30213"/>
     <file name="u4682.png" crc="365983851" ref="writ-30213"/>
-    <file name="marciante-infographic282x205.png" crc="3803928379" seo="true" ref="writ-30213"/>
-    <file name="marciante-infographic.png" crc="26001038" seo="true" ref="case-study"/>
+    <file name="marciante-infographic282x205.png" crc="3803928379" seo="true" ref="writ-30213">
+      <caption webpage="writ-30213" alt=""/>
+    </file>
+    <file name="marciante-infographic.png" crc="26001038" seo="true" ref="case-study">
+      <caption webpage="case-study" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="295221003" seo="true" mt="1484333485978" redirect="true"/>
-  <file name="writing-sample.html" crc="444591861" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="resume.html" crc="3770286514" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="about.html" crc="3936178798" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="other-work.html" crc="4169676594" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="photo-gallery.html" crc="3908025777" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="landing.html" crc="3843066939" seo="true" mt="1482438529261" redirect="true"/>
-  <file name="personal-statement.html" crc="3929197676" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="writ-30213.html" crc="4174708152" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="autoethnography.html" crc="4100360991" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="social-media-campaign.html" crc="93348753" seo="true" mt="1484333566912" redirect="true"/>
-  <file name="case-study.html" crc="278285301" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="index.html" crc="3797704406" seo="true" mt="1484333485978" redirect="true"/>
+  <file name="writing-sample.html" crc="59935605" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="resume.html" crc="25110795" seo="true" mt="1496763171267" redirect="true"/>
+  <file name="about.html" crc="4185998712" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="other-work.html" crc="3985597214" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="photo-gallery.html" crc="370349739" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="landing.html" crc="423545514" seo="true" mt="1482438529261" redirect="true"/>
+  <file name="personal-statement.html" crc="4076808955" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="writ-30213.html" crc="526116023" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="autoethnography.html" crc="242183193" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="social-media-campaign.html" crc="170627440" seo="true" mt="1484333566912" redirect="true"/>
+  <file name="case-study.html" crc="348765302" seo="true" mt="1484333566912" redirect="true"/>
 </manifest>
